@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 1133928181
+    locked: 0
+  - name: Cliff
+    uniqueID: 803291331
+    locked: 0
+  - name: Decorations
+    uniqueID: 1090149599
+    locked: 0
+  - name: Actor
+    uniqueID: 3014340469
+    locked: 0
